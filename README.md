@@ -24,6 +24,8 @@
 <img src="https://github.com/ahmedgamal1254/CMS_System/blob/6decde8946a71d0e7bcd2b3e319a56da84624c3f/2.jpg" />
 <img src="https://github.com/ahmedgamal1254/CMS_System/blob/6decde8946a71d0e7bcd2b3e319a56da84624c3f/3.jpg" />
 <img src="https://github.com/ahmedgamal1254/CMS_System/blob/6decde8946a71d0e7bcd2b3e319a56da84624c3f/4.jpg" />
+<img src="https://github.com/ahmedgamal1254/CMS_System/blob/dda6291812b6aefec5fc33fd979c08ac5ff5d112/7.jpg" />
+<img src="https://github.com/ahmedgamal1254/CMS_System/blob/dda6291812b6aefec5fc33fd979c08ac5ff5d112/8.jpg" />
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
