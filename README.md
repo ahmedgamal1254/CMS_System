@@ -19,7 +19,6 @@
     <li>Mysql</li>
 </ul>
 
-و
 <h2>demo app</h2> 
 <img src="https://github.com/ahmedgamal1254/CMS_System/blob/6decde8946a71d0e7bcd2b3e319a56da84624c3f/1.jpg" />
 <img src="https://github.com/ahmedgamal1254/CMS_System/blob/6decde8946a71d0e7bcd2b3e319a56da84624c3f/2.jpg" />
